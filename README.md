@@ -20,3 +20,5 @@ Or, set `openai.api_key` to its value:
 import openai
 openai.api_key = "sk-..."
 ```
+
+Course: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
